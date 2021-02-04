@@ -1,0 +1,14 @@
+.View {
+  position: relative;
+}
+
+.View > img {
+  cursor: pointer;
+}
+
+.View_timer {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 10px;
+}
